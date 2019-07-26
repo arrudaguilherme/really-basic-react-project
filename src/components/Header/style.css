@@ -1,0 +1,12 @@
+#main-header{
+    height:70px;
+    background: #8e44ad;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    color:#FFF;
+    display:flex; /* work with flexbox */
+    justify-content: center;  /* centralize de content... in this case my header */
+    align-items: center;    /* same motive that made me use justify-content:center */
+
+}
